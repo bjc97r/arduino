@@ -5,4 +5,5 @@ Creative engineering design with
 - Matlab
 - 3D Printing
 - Laser Cutting
-This folder contains the course material for [Introduction to Creative Engineering Design] at Incheon National University, Republic of Korea
+
+This folder contains the course material for "Introduction to Creative Engineering Design" at Incheon National University, Republic of Korea
